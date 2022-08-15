@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chengqiangit.xflmvptemplatetest01.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chengqiangit.xflmvptemplatetest01.MyBundle
 
 class MyApplicationService {
 
